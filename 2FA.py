@@ -79,7 +79,7 @@ if __name__ == '__main__':
             print(Fore.LIGHTBLUE_EX + 'Successfully logged out!, Returning to main menu...')
             input('Press Enter to continue...')
         elif choice == '3':
-            webbrowser.open('https://discord.gg/infy')
+            webbrowser.open('https://discord.gg/QeAyQGU7vU')
             time.sleep(3)
             print(Fore.CYAN + 'Thanks for support!')
             input('Press Enter to continue...')
